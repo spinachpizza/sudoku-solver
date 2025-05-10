@@ -14,7 +14,7 @@ This project can solve any sudoku in extremely fast times using advanced sudoku 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sudoku-solver.git
+   git clone https://github.com/spinachpizza/sudoku-solver.git
    ```
 2. Install pytesseract:
    ```pip install pytesseract```
